@@ -1,2 +1,2 @@
 # CSHARP-Coding-dojo
-All material from Bootcamp
+All material from C# Stack at CodingDojo Bootcamp
