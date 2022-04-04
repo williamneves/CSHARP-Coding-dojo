@@ -1,0 +1,13 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\bin\Debug\netcoreapp3.1\basic13.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\bin\Debug\netcoreapp3.1\basic13.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\bin\Debug\netcoreapp3.1\basic13.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\bin\Debug\netcoreapp3.1\basic13.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\bin\Debug\netcoreapp3.1\basic13.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\bin\Debug\netcoreapp3.1\basic13.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\obj\Debug\netcoreapp3.1\basic13.csprojAssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\obj\Debug\netcoreapp3.1\basic13.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\obj\Debug\netcoreapp3.1\basic13.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\obj\Debug\netcoreapp3.1\basic13.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\obj\Debug\netcoreapp3.1\basic13.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\obj\Debug\netcoreapp3.1\basic13.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\basic13\obj\Debug\netcoreapp3.1\basic13.genruntimeconfig.cache
