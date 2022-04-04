@@ -1,0 +1,13 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\bin\Debug\netcoreapp3.1\collections_practice.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\bin\Debug\netcoreapp3.1\collections_practice.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\bin\Debug\netcoreapp3.1\collections_practice.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\bin\Debug\netcoreapp3.1\collections_practice.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\bin\Debug\netcoreapp3.1\collections_practice.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\bin\Debug\netcoreapp3.1\collections_practice.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\obj\Debug\netcoreapp3.1\collections_practice.csprojAssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\obj\Debug\netcoreapp3.1\collections_practice.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\obj\Debug\netcoreapp3.1\collections_practice.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\obj\Debug\netcoreapp3.1\collections_practice.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\obj\Debug\netcoreapp3.1\collections_practice.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\obj\Debug\netcoreapp3.1\collections_practice.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\collections_practice\obj\Debug\netcoreapp3.1\collections_practice.genruntimeconfig.cache
