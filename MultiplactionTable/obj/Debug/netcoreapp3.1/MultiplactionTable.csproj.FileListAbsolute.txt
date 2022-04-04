@@ -1,0 +1,13 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\bin\Debug\netcoreapp3.1\MultiplactionTable.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\bin\Debug\netcoreapp3.1\MultiplactionTable.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\bin\Debug\netcoreapp3.1\MultiplactionTable.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\bin\Debug\netcoreapp3.1\MultiplactionTable.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\bin\Debug\netcoreapp3.1\MultiplactionTable.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\bin\Debug\netcoreapp3.1\MultiplactionTable.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\obj\Debug\netcoreapp3.1\MultiplactionTable.csprojAssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\obj\Debug\netcoreapp3.1\MultiplactionTable.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\obj\Debug\netcoreapp3.1\MultiplactionTable.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\obj\Debug\netcoreapp3.1\MultiplactionTable.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\obj\Debug\netcoreapp3.1\MultiplactionTable.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\obj\Debug\netcoreapp3.1\MultiplactionTable.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\MultiplactionTable\obj\Debug\netcoreapp3.1\MultiplactionTable.genruntimeconfig.cache
