@@ -1,0 +1,13 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.csprojAssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.genruntimeconfig.cache
