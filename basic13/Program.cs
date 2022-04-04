@@ -5,7 +5,7 @@ namespace basic13
 {
     class Program
     {
-        public static void  PrintNumbers(int num)
+        public static void PrintNumbers(int num)
         {
             for (int i = 1; i <= num; i++)
             {
@@ -23,7 +23,8 @@ namespace basic13
                 }
             }
         }
-        public static void PrintSum(int num){
+        public static void PrintSum(int num)
+        {
             int sum = 0;
             for (int i = 1; i <= num; i++)
             {
@@ -108,7 +109,8 @@ namespace basic13
             }
             Console.WriteLine(string.Join(",", nums));
         }
-        public static void MinMaxAveratge(int[] numbers){
+        public static void MinMaxAveratge(int[] numbers)
+        {
             int min = numbers[0];
             int max = numbers[0];
             int sum = 0;
@@ -157,7 +159,7 @@ namespace basic13
             PrintNumbers(255);
             PrintOdds(255);
             PrintSum(255);
-            int[] nums = {1,2,3,4,5,6,7,8,9,10};
+            int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             LoopArray(nums);
             int max = FindMax(nums);
             Console.WriteLine(max);
@@ -165,11 +167,11 @@ namespace basic13
             Console.WriteLine(OddArray());
             Console.WriteLine(GreaterThanY(nums, 6));
             SquareArrayValues(nums);
-            int[] nums2 = {-1,2,3,-4,-5};
+            int[] nums2 = { -1, 2, 3, -4, -5 };
             EliminateNegatives(nums2);
             MinMaxAveratge(nums);
             ShiftValues(nums);
-            int[] nums3 = {-1,2,3,-4,-5};
+            int[] nums3 = { -1, 2, 3, -4, -5 };
             Console.WriteLine(string.Join(",", NumToString(nums3)));
         }
     }
