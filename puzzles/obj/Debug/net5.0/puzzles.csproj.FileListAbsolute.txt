@@ -1,0 +1,16 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\bin\Debug\net5.0\puzzles.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\bin\Debug\net5.0\puzzles.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\bin\Debug\net5.0\puzzles.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\bin\Debug\net5.0\puzzles.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\bin\Debug\net5.0\puzzles.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\bin\Debug\net5.0\ref\puzzles.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\bin\Debug\net5.0\puzzles.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\puzzles.csproj.AssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\puzzles.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\puzzles.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\puzzles.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\ref\puzzles.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\puzzles.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\puzzles\obj\Debug\net5.0\puzzles.genruntimeconfig.cache
