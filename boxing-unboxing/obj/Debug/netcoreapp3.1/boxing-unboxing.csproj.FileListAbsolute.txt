@@ -1,0 +1,13 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\obj\Debug\netcoreapp3.1\boxing-unboxing.csprojAssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\obj\Debug\netcoreapp3.1\boxing-unboxing.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\obj\Debug\netcoreapp3.1\boxing-unboxing.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\obj\Debug\netcoreapp3.1\boxing-unboxing.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\bin\Debug\netcoreapp3.1\boxing-unboxing.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\bin\Debug\netcoreapp3.1\boxing-unboxing.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\bin\Debug\netcoreapp3.1\boxing-unboxing.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\bin\Debug\netcoreapp3.1\boxing-unboxing.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\bin\Debug\netcoreapp3.1\boxing-unboxing.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\bin\Debug\netcoreapp3.1\boxing-unboxing.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\obj\Debug\netcoreapp3.1\boxing-unboxing.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\obj\Debug\netcoreapp3.1\boxing-unboxing.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\boxing-unboxing\obj\Debug\netcoreapp3.1\boxing-unboxing.genruntimeconfig.cache
