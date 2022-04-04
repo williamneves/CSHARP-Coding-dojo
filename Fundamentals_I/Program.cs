@@ -11,8 +11,6 @@ namespace Fundamentals_I
 
             Console.WriteLine(hello);
 
-            Console.ReadLine();
-
             Console.WriteLine("All from 1 to 255");
             for(int i = 1; i <= 255; i++)
             {
