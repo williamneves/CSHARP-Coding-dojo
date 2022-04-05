@@ -34,6 +34,7 @@ namespace Human_pAssign
         {
             target.health -= 5 * strength;
             System.Console.WriteLine($"{name} attacked {target.name} for {5 * strength} damage! Now {target.name} has {target.health} health left.");
+            
             return target.health;
         }
     }
