@@ -1,0 +1,16 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\Deck-of-Cards.csproj.AssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\Deck-of-Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\Deck-of-Cards.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\Deck-of-Cards.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\Deck-of-Cards.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\bin\Debug\net5.0\Deck-of-Cards.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\bin\Debug\net5.0\Deck-of-Cards.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\bin\Debug\net5.0\Deck-of-Cards.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\bin\Debug\net5.0\Deck-of-Cards.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\bin\Debug\net5.0\Deck-of-Cards.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\bin\Debug\net5.0\ref\Deck-of-Cards.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\bin\Debug\net5.0\Deck-of-Cards.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\Deck-of-Cards.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\ref\Deck-of-Cards.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\Deck-of-Cards.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\obj\Debug\net5.0\Deck-of-Cards.genruntimeconfig.cache
