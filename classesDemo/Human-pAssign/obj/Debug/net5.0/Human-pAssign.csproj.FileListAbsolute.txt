@@ -1,0 +1,16 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\Human-pAssign.csproj.AssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\Human-pAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\Human-pAssign.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\Human-pAssign.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\Human-pAssign.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\bin\Debug\net5.0\Human-pAssign.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\bin\Debug\net5.0\Human-pAssign.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\bin\Debug\net5.0\Human-pAssign.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\bin\Debug\net5.0\Human-pAssign.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\bin\Debug\net5.0\Human-pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\bin\Debug\net5.0\ref\Human-pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\bin\Debug\net5.0\Human-pAssign.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\Human-pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\ref\Human-pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\Human-pAssign.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\classesDemo\Human-pAssign\obj\Debug\net5.0\Human-pAssign.genruntimeconfig.cache
