@@ -1,0 +1,16 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\bin\Debug\net5.0\Hungry-Ninja-pAssign.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\bin\Debug\net5.0\Hungry-Ninja-pAssign.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\bin\Debug\net5.0\Hungry-Ninja-pAssign.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\bin\Debug\net5.0\Hungry-Ninja-pAssign.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\bin\Debug\net5.0\Hungry-Ninja-pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\bin\Debug\net5.0\ref\Hungry-Ninja-pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\bin\Debug\net5.0\Hungry-Ninja-pAssign.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\Hungry-Ninja-pAssign.csproj.AssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\Hungry-Ninja-pAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\Hungry-Ninja-pAssign.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\Hungry-Ninja-pAssign.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\Hungry-Ninja-pAssign.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\Hungry-Ninja-pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\ref\Hungry-Ninja-pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\Hungry-Ninja-pAssign.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Hungry-Ninja-pAssign\obj\Debug\net5.0\Hungry-Ninja-pAssign.genruntimeconfig.cache
