@@ -1,0 +1,15 @@
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/bin/Debug/net5.0/basic13.deps.json
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/bin/Debug/net5.0/basic13.runtimeconfig.json
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/bin/Debug/net5.0/basic13.runtimeconfig.dev.json
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/bin/Debug/net5.0/basic13.dll
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/bin/Debug/net5.0/ref/basic13.dll
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/bin/Debug/net5.0/basic13.pdb
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/basic13.csproj.AssemblyReference.cache
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/basic13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/basic13.AssemblyInfoInputs.cache
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/basic13.AssemblyInfo.cs
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/basic13.csproj.CoreCompileInputs.cache
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/basic13.dll
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/ref/basic13.dll
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/basic13.pdb
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/Debug/net5.0/basic13.genruntimeconfig.cache

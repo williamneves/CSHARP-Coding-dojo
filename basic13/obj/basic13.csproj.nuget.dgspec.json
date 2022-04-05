@@ -1,29 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\basic13\\basic13.csproj": {}
+    "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/basic13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\basic13\\basic13.csproj": {
+    "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/basic13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\basic13\\basic13.csproj",
+        "projectUniqueName": "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/basic13.csproj",
         "projectName": "basic13",
-        "projectPath": "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\basic13\\basic13.csproj",
-        "packagesPath": "C:\\Users\\gwnn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\basic13\\obj\\",
+        "projectPath": "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/basic13.csproj",
+        "packagesPath": "/Users/guilhermenascimento/.nuget/packages/",
+        "outputPath": "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/basic13/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gwnn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/guilhermenascimento/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -34,7 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.406/RuntimeIdentifierGraph.json"
         }
       }
     }
