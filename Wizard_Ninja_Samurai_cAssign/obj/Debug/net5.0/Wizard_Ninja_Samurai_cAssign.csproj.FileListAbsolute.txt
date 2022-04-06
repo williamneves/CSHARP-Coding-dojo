@@ -1,0 +1,15 @@
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/bin/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.deps.json
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/bin/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.runtimeconfig.json
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/bin/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.runtimeconfig.dev.json
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/bin/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.dll
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/bin/Debug/net5.0/ref/Wizard_Ninja_Samurai_cAssign.dll
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/bin/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.pdb
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.csproj.AssemblyReference.cache
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.AssemblyInfoInputs.cache
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.AssemblyInfo.cs
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.csproj.CoreCompileInputs.cache
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.dll
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/ref/Wizard_Ninja_Samurai_cAssign.dll
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.pdb
+/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.genruntimeconfig.cache
