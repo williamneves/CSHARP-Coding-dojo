@@ -4,6 +4,9 @@ namespace phone_pAssign
 {
     class Nokia : Phone, IRingable
     {
+        public string Name { get; set; }
+        
+        
         public Nokia(string versionNumber, int batteryPercentage, string carrier, string ringTone)
             : base(versionNumber, batteryPercentage, carrier, ringTone)
         {
