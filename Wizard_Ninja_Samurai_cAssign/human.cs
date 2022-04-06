@@ -30,16 +30,20 @@ namespace Wizard_Ninja_Samurai_cAssign
             this.health = health;
         }
 
-        public virtual int Attack(Human target)
+        public virtual void Attack(Human target)
         {
             target.health -= 5 * strength;
             System.Console.WriteLine($"{name} attacked {target.name} for {5 * strength} damage! Now {target.name} has {target.health} health left.");
-            
-            return target.health;
         }
 
-        protected virtual void IncreaseHealth(int amount){
+        public void changeHealth(int amount){
             health += amount;
+        }
+        public void setHealth(int amount){
+            health = amount;
+        }
+        public void displayHealth(){
+            System.Console.WriteLine($"{name} has {health} health left.");
         }
     }
 }

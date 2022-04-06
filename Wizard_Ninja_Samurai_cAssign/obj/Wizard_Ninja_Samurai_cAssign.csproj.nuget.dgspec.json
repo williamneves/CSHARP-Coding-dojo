@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/Wizard_Ninja_Samurai_cAssign.csproj": {}
+    "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Wizard_Ninja_Samurai_cAssign\\Wizard_Ninja_Samurai_cAssign.csproj": {}
   },
   "projects": {
-    "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/Wizard_Ninja_Samurai_cAssign.csproj": {
+    "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Wizard_Ninja_Samurai_cAssign\\Wizard_Ninja_Samurai_cAssign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/Wizard_Ninja_Samurai_cAssign.csproj",
+        "projectUniqueName": "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Wizard_Ninja_Samurai_cAssign\\Wizard_Ninja_Samurai_cAssign.csproj",
         "projectName": "Wizard_Ninja_Samurai_cAssign",
-        "projectPath": "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/Wizard_Ninja_Samurai_cAssign.csproj",
-        "packagesPath": "/Users/guilhermenascimento/.nuget/packages/",
-        "outputPath": "/Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/",
+        "projectPath": "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Wizard_Ninja_Samurai_cAssign\\Wizard_Ninja_Samurai_cAssign.csproj",
+        "packagesPath": "C:\\Users\\gwnn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Wizard_Ninja_Samurai_cAssign\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/guilhermenascimento/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gwnn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

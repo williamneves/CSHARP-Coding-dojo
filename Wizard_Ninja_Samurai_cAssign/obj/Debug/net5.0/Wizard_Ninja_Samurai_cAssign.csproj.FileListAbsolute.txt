@@ -13,3 +13,19 @@
 /Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/ref/Wizard_Ninja_Samurai_cAssign.dll
 /Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.pdb
 /Users/guilhermenascimento/Documents/git/CSHARP-Coding-dojo/Wizard_Ninja_Samurai_cAssign/obj/Debug/net5.0/Wizard_Ninja_Samurai_cAssign.genruntimeconfig.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.csproj.AssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\ref\Wizard_Ninja_Samurai_cAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\bin\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\bin\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\bin\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\bin\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\bin\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\bin\Debug\net5.0\ref\Wizard_Ninja_Samurai_cAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\bin\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Wizard_Ninja_Samurai_cAssign\obj\Debug\net5.0\Wizard_Ninja_Samurai_cAssign.genruntimeconfig.cache
