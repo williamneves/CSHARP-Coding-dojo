@@ -1,0 +1,16 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\bin\Debug\net5.0\Iron_ninja.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\bin\Debug\net5.0\Iron_ninja.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\bin\Debug\net5.0\Iron_ninja.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\bin\Debug\net5.0\Iron_ninja.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\bin\Debug\net5.0\Iron_ninja.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\bin\Debug\net5.0\ref\Iron_ninja.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\bin\Debug\net5.0\Iron_ninja.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\Iron_ninja.csproj.AssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\Iron_ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\Iron_ninja.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\Iron_ninja.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\Iron_ninja.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\Iron_ninja.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\ref\Iron_ninja.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\Iron_ninja.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\obj\Debug\net5.0\Iron_ninja.genruntimeconfig.cache

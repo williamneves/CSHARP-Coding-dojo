@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Deck_of_Cards
-build_property.ProjectDir = c:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Deck-of-Cards\
+build_property.RootNamespace = Iron_ninja
+build_property.ProjectDir = C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Iron_ninja\
