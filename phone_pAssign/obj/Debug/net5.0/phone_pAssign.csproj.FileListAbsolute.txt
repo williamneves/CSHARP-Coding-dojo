@@ -1,0 +1,16 @@
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\bin\Debug\net5.0\phone_pAssign.exe
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\bin\Debug\net5.0\phone_pAssign.deps.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\bin\Debug\net5.0\phone_pAssign.runtimeconfig.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\bin\Debug\net5.0\phone_pAssign.runtimeconfig.dev.json
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\bin\Debug\net5.0\phone_pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\bin\Debug\net5.0\ref\phone_pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\bin\Debug\net5.0\phone_pAssign.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\phone_pAssign.csproj.AssemblyReference.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\phone_pAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\phone_pAssign.AssemblyInfoInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\phone_pAssign.AssemblyInfo.cs
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\phone_pAssign.csproj.CoreCompileInputs.cache
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\phone_pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\ref\phone_pAssign.dll
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\phone_pAssign.pdb
+C:\Users\gwnn\Documents\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\phone_pAssign\obj\Debug\net5.0\phone_pAssign.genruntimeconfig.cache
