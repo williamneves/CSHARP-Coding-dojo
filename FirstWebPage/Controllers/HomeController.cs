@@ -8,17 +8,17 @@ namespace FirstWebPage.Controllers
         [HttpGet]
         [Route("")]
 
-        public String Index()
+        public ViewResult Index()
         {
-            return "This is my Index!";
+            return View("Index");
         }
 
         [HttpGet]
         [Route("contact")]
 
-        public string Contact()
+        public ViewResult Contact()
         {
-            return "This is my Contact Page!";
+            return View("Index");
         }
 
         [HttpGet]

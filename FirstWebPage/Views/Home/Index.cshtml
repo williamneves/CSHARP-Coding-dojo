@@ -26,7 +26,46 @@
 <div>
     <div class="container-lg">
         <div class="row my-5">
-            <h1>Hello World Again Again</h1>
+            
+        @{
+            var StringList = new List<string>
+            {
+                "Apple Pie",
+                "Banana Bread",
+                "Cherry Pie",
+                "Date Cake",
+                "Eggnog",
+                "Fruit Cake"
+            };
+
+            var count = 0;
+        <table class='table table-striped w-25'>
+        <thead>
+            <tr>
+                <th scope='col'>#</th>
+                <th scope='col'>Receipe</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in StringList)
+            {
+            <tr>
+                <th scope='row'>@(count+=1)</th>
+                @if(item[0] == 'C' || item[0] == 'c')
+                {
+                <td class='text-danger'>@item</td>
+                }
+                else
+                {
+                <td>@item</td>
+                }
+                
+            </tr>
+            }
+        </tbody>
+        </table>
+        }
+        
         </div>
     </div>
 </div>
