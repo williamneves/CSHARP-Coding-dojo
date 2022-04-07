@@ -23,9 +23,7 @@ D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.TagHelpers.input.cache
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.TagHelpers.output.cache
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.RazorCoreGenerate.cache
-D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\Razor\Views\Home\Profile.cshtml.g.cs
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.RazorTargetAssemblyInfo.cache
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.RazorTargetAssemblyInfo.cs
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.Views.pdb
@@ -34,3 +32,4 @@ D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.pdb
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.genruntimeconfig.cache
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\FirstWebPage.csproj.CopyComplete
+D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\FirstWebPage\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs

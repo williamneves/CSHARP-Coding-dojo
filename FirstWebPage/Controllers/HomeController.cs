@@ -5,28 +5,39 @@ namespace FirstWebPage.Controllers
 {
     public class HomeController : Controller
     {
-        [HttpGet]
-        [Route("")]
+        [HttpGet("")]
+        
 
-        public ViewResult Index()
+        public IActionResult Index()
         {
-            return View("Index");
+            // ViewBag.title = "Hello World!";
+            return View();
         }
 
-        [HttpGet]
-        [Route("contact")]
+        [HttpPost("formsubmit")]
 
-        public ViewResult Contact()
+        public IActionResult  FormSubmit(string Name, string DojoLocation, string FavLang, string Comment)
         {
-            return View("Index");
+
+            var form = new{
+                Name = Name,
+                DojoLocation = DojoLocation,
+                FavLang = FavLang,
+                Comment = Comment
+                };
+
+            return RedirectToAction("Result", form);
         }
 
-        [HttpGet]
-        [Route("profile")]
+        [HttpGet("result")]
 
-        public string profile()
+        public IActionResult Result(string Name, string DojoLocation, string FavLang, string Comment)
         {
-            return "This is my Profile page Page!";
+            ViewBag.Name = Name;
+            ViewBag.DojoLocation = DojoLocation;
+            ViewBag.FavLang = FavLang;
+            ViewBag.Comment = Comment;
+            return View("Result");
         }
     }
 }

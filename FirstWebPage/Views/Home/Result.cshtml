@@ -26,13 +26,14 @@
     <div class="container-lg">
         <div class="row my-5 m-auto">
             <div class="card col-8 p-5">
+                @{
                 <form action="formsubmit" method="post">
                     <div class="row g-3 align-items-center mb-3 col-8 justify-content-between">
                         <div class="col-auto">
                             <label for="Name" class="col-form-label">Your Name</label>
                         </div>
                         <div class="col-auto">
-                            <input type="text" name='Name' id="Name" class="form-control">
+                            <input type="text" name='Name' id="Name" class="form-control" value="@ViewBag.Name" readonly>
                         </div>
                     </div>
                     <div class="row g-3 align-items-center mb-3 col-8 justify-content-between">
@@ -40,10 +41,8 @@
                             <label for="DojoLocation" class="col-form-label">Dojo Location</label>
                         </div>
                         <div class="col-auto">
-                            <select name="DojoLocation" id="DojoLocation" class="form-select">
-                                <option value="Chicago">Chicago</option>
-                                <option value="New York">New York</option>
-                                <option value="Miami">Miami</option>
+                            <select name="DojoLocation" id="DojoLocation" class="form-select" disabled>
+                                <option value="@ViewBag.DojoLocation">@ViewBag.DojoLocation</option>
                             </select>
                         </div>
                     </div>
@@ -52,21 +51,20 @@
                             <label for="FavLang" class="col-form-label">Favorite Language</label>
                         </div>
                         <div class="col-auto">
-                            <select name="FavLang" id="FavLang" class="form-select">
-                                <option value="C#">C#</option>
-                                <option value="Python">Python</option>
-                                <option value="JavaScript">JavaScript</option>
+                            <select name="FavLang" id="FavLang" class="form-select" disabled>
+                                <option value="@ViewBag.FavLang">@ViewBag.FavLang</option>
                             </select>
                         </div>
                     </div>
                     <div class="mb-3">
                         <label for="exampleFormControlTextarea1" class="form-label">Comment</label>
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"
-                            name="Comment"></textarea>
+                            name="Comment" readonly>@ViewBag.Comment</textarea>
                     </div>
                     <br>
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <a href="/" class="btn btn-primary">Back</a>
                 </form>
+            }
             </div>
         </div>
     </div>
