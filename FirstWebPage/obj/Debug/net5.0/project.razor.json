@@ -15624,13 +15624,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\FirstWebPage\\Views\\Home\\Contact.cshtml",
-      "TargetPath": "Views\\Home\\Contact.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\FirstWebPage\\Views\\Home\\Profile.cshtml",
-      "TargetPath": "Views\\Home\\Profile.cshtml",
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\FirstWebPage\\Views\\Home\\Result.cshtml",
+      "TargetPath": "Views\\Home\\Result.cshtml",
       "FileKind": "mvc"
     }
   ],

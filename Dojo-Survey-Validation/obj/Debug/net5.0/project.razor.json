@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\HelloWorldMVC\\HelloWorldMVC.csproj",
+  "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Dojo-Survey-Validation.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,41 +15616,46 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "HelloWorldMVC",
+  "RootNamespace": "Dojo_Survey_Validation",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\HelloWorldMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\HelloWorldMVC\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\HelloWorldMVC\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\HelloWorldMVC\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\Home\\Result.cshtml",
+      "TargetPath": "Views\\Home\\Result.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\HelloWorldMVC\\Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\HelloWorldMVC\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gwnn\\Documents\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\HelloWorldMVC\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],

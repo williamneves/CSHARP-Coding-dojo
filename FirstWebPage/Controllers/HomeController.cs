@@ -6,8 +6,6 @@ namespace FirstWebPage.Controllers
     public class HomeController : Controller
     {
         [HttpGet("")]
-        
-
         public IActionResult Index()
         {
             // ViewBag.title = "Hello World!";
