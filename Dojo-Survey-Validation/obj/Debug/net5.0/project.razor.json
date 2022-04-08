@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\Home\\Generator.cshtml",
+      "TargetPath": "Views\\Home\\Generator.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\Dojo-Survey-Validation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

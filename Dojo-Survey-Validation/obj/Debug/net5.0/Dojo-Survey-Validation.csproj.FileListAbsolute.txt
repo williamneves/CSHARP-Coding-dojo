@@ -39,3 +39,4 @@ D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Dojo-Survey-Vali
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Dojo-Survey-Validation\obj\Debug\net5.0\Dojo-Survey-Validation.pdb
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Dojo-Survey-Validation\obj\Debug\net5.0\Dojo-Survey-Validation.genruntimeconfig.cache
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Dojo-Survey-Validation\obj\Debug\net5.0\Dojo-Survey-Validation.csproj.CopyComplete
+D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\Dojo-Survey-Validation\obj\Debug\net5.0\Razor\Views\Home\Generator.cshtml.g.cs
