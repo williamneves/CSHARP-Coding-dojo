@@ -96,9 +96,13 @@ namespace Dojo_Survey_Validation.Controllers
             }
 
             
-            Console.WriteLine($"Password: {password}");
+            string newPassword = HttpContext.Session.GetString("password");
+            int? Count = HttpContext.Session.GetInt32("Count");
+
+
+            return Json(new{newPassword = newPassword, Count = Count});
             
-            return RedirectToAction("Generator");
+            // return RedirectToAction("Generator");
         }
 
         public IActionResult Privacy()

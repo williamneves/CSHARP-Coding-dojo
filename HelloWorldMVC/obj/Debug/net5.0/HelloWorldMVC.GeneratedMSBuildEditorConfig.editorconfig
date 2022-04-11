@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = HelloWorldMVC
-build_property.ProjectDir = D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\HelloWorldMVC\
+build_property.ProjectDir = d:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\HelloWorldMVC\

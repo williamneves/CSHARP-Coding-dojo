@@ -1,0 +1,103 @@
+<div class="card">
+    <div class="card-header bg-dark text-light">Level 1</div>
+    <div class="card-body">
+        <p>Using the SportsORM, complete all the following queries and show their results on Level1.cshtml.</p>
+        
+        <ol>
+            <li>...all womens' leagues hello</li>
+            
+            <div id="level_1_1"></div>
+
+            <li>...all leagues where sport is any type of hockey</li>
+            
+            <div id="level_1_2"></div>
+
+            <li>...all leagues where sport is something OTHER THAN football</li>
+
+            <div id="level_1_3"></div>
+
+            <li>...all leagues that call themselves "conferences"</li>
+
+            <div id="level_1_4"></div>
+
+            <li>...all leagues in the Atlantic region</li>
+
+            <div id="level_1_5"></div>
+            
+            <li>...all teams based in Dallas</li>
+
+            <div id="level_1_6"></div>
+
+            <li>...all teams named the Raptors</li>
+            <div id="level_1_7"></div>
+            <li>...all teams whose location includes "City"</li>
+            <div id="level_1_8"></div>
+            <li>...all teams whose names begin with "T"</li>
+            <div id="level_1_9"></div>
+            <li>...all teams, ordered alphabetically by location</li>
+            <div id="level_1_10"></div>
+            <li>...all teams, ordered by team name in reverse alphabetical order</li>
+            <div id="level_1_11"></div>
+            <li>...every player with last name "Cooper"</li>
+            <div id="level_1_12"></div>
+            <li>...every player with first name "Joshua"</li>
+            <div id="level_1_13"></div>
+            <li>...every player with last name "Cooper" EXCEPT those with "Joshua" as the first name</li>
+            <div id="level_1_14"></div>
+            <li>...all players with first name "Alexander" OR first name "Wyatt"</li>
+            <div id="level_1_15"></div>
+        </ol>
+    </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    
+    setTimeout(function(){
+    renderPartialAjax("level_1_1");
+    }, 10);
+    
+    setTimeout(function(){
+    renderPartialAjax("level_1_2");
+    }, 50);
+
+    setTimeout(function(){
+    renderPartialAjax("level_1_4");
+    }, 100);
+    
+    setTimeout(function(){
+    renderPartialAjax("level_1_5");
+    }, 150);
+    setTimeout(function(){
+    renderPartialAjax("level_1_6");
+    }, 200);
+    setTimeout(function(){
+    renderPartialAjax("level_1_7");
+    }, 250);
+    setTimeout(function(){
+    renderPartialAjax("level_1_8");
+    }, 300);
+    setTimeout(function(){
+    renderPartialAjax("level_1_9");
+    }, 350);
+    setTimeout(function(){
+    renderPartialAjax("level_1_10");
+    }, 400);
+    setTimeout(function(){
+    renderPartialAjax("level_1_11");
+    }, 450);
+    setTimeout(function(){
+    renderPartialAjax("level_1_12");
+    }, 500);
+    setTimeout(function(){
+    renderPartialAjax("level_1_13");
+    }, 550);
+    setTimeout(function(){
+    renderPartialAjax("level_1_14");
+    }, 600);
+    setTimeout(function(){
+    renderPartialAjax("level_1_15");
+    }, 650);
+
+});
+
+</script>
