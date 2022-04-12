@@ -61,7 +61,8 @@ namespace SportsORM.Controllers
             {
                 Leagues = womanLeagues
             };
-
+            Console.WriteLine($"############### 1 ###############\n\n\n");
+            
             return PartialView("querys_leagues", listOfwomanLeagues);
         }
 
@@ -78,6 +79,7 @@ namespace SportsORM.Controllers
                 Leagues = hockeyLeagues
             };
 
+            Console.WriteLine($"############### 2 ###############\n\n\n");
             return PartialView("querys_leagues", listOfhockeyLeagues);
         }
 
@@ -95,6 +97,7 @@ namespace SportsORM.Controllers
                 Leagues = noFootballLeagues
             };
 
+            Console.WriteLine($"############### 3 ###############\n\n\n");
             return PartialView("querys_leagues", listOfnoFootballLeagues);
         }
 
