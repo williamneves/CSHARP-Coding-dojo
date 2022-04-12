@@ -1,0 +1,62 @@
+﻿@{
+ViewData["Title"] = "CRUDelicious";
+}
+@model Dish
+<div class="text-center">
+    <h5 class="display-6">Add a new Dish!</h5>
+</div>
+<div class="container">
+    <div class="row m-auto my-4 p-2 justify-content-center align-items-center">
+        <div class="col-12 d-flex justify-content-center">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-outline-primary btn px-2">Home</a>
+        </div>
+    </div>
+    <hr class="card-separator col-12 p-0 my-0">
+    <form asp-action="AddNewDish" asp-controller="Home" method="post" class="row">
+    <input type="hidden" name="DishId" value="@ViewBag.ThisDish.DishId">
+        <div class="col-4 my-5">
+            <div class="form-floating mb-3  text-end">
+                <!-- Dish Name -->
+                <input asp-for="Name" class="form-control" placeholder="Name" value="@ViewBag.ThisDish.Name" readonly>
+                <label asp-for="Name">Dish Name</label>
+                @* <small><span asp-validation-for="Name" class="text-danger"></span></small> *@
+            </div>
+
+            <div class="form-floating mb-3  text-end">
+                <!-- Chef's Name -->
+                <input asp-for="Chef" class="form-control" placeholder="Chef" value="@ViewBag.ThisDish.Chef" readonly>
+                <label asp-for="Chef">Dish Chef</label>
+                @* <small><span asp-validation-for="Chef" class="text-danger"></span></small> *@
+            </div>
+
+            <div class="form-floating mb-3  text-end">
+                <!-- Chef's Name -->
+                <input asp-for="Calories" class="form-control" placeholder="Calories" value="@ViewBag.ThisDish.Calories" readonly>
+                <label asp-for="Calories">Dish Calories</label>
+                @* <small><span asp-validation-for="Calories" class="text-danger"></span></small> *@
+            </div>
+
+        </div>
+        <div class="col-4 my-5   text-end">
+            <div class="form-floating">
+                <select class="form-select" asp-for="Tastiness" disabled>
+                    <option value="@ViewBag.ThisDish.Tastiness" selected>@ViewBag.ThisDish.Tastiness</option>
+                </select>
+                <label asp-for="Tastiness"></label>
+                @* <small><span asp-validation-for="Tastiness" class="text-danger"></span></small> *@
+            </div>
+        </div>
+        <div class="col-4 my-5   text-end">
+            <div class="form-floating mb-3  text-end">
+                <!-- Dish Name -->
+                <textarea class="form-control" style="height: 12rem" readonly>@ViewBag.ThisDish.Description</textarea>
+                <label asp-for="Description">Dish Description</label>
+                @* <small><span asp-validation-for="Description" class="text-danger"></span></small> *@
+            </div>
+        </div>
+        <hr class="card-separator col-12 p-0 my-0">
+        <a href="/dish/edit/@ViewBag.ThisDish.DishId" class="btn btn-primary mt-3 self-align-end col-2 ms-auto">Edit dish</a>
+
+
+    </form>
+</div>

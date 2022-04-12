@@ -28,14 +28,20 @@ function createHtml(data) {
 }
 
 function renderPartialAjax(partial){
+    return new Promise((resolve, reject) => {
+
     $.when($.ajax(
         {
             url: partial,
             method: 'POST'
         })).done(function(data){
             
-
             $('#'+partial).html(data);
+            resolve();
+
+        }).fail(function(error){
+            reject(error);
         });
 
+    });
     }
