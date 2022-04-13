@@ -45,8 +45,8 @@ namespace LoginRegistration.Controllers
             return PartialView("LoginRegisterModel");
         }
 
-        [HttpPost("register")]
-        public IActionResult PostRegister()
+        [HttpPost("RegisterUser")]
+        public IActionResult RegisterUser()
         {
             if(ModelState.IsValid)
             {

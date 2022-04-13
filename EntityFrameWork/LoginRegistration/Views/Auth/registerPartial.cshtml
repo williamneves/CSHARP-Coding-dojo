@@ -1,15 +1,33 @@
+@model User
+
 <h3 class='text-blue-700 fw-bold'>Register</h3>
 <hr class='card-divisor'>
-<form>
-    <div class="mb-3">
-        <label for="exampleInputEmail1" class="form-label">Email address</label>
-        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+<form asp-action="RegisterUser" asp-controller="Auth" method="post">
+    <div class="form-floating mb-3">
+        <input asp-for="FirstName" class="form-control">
+        <label asp-for="FirstName" class="col-form-label"></label>
     </div>
-    <div class="mb-3">
-        <label for="exampleInputPassword1" class="form-label">Password</label>
-        <input type="password" class="form-control" id="exampleInputPassword1">
+    <small><span asp-validation-for="FirstName" class="text-danger"></span></small>
+    <div class="form-floating mb-3">
+        <input asp-for="LastName" class="form-control">
+        <label asp-for="LastName" class="col-form-label"></label>
     </div>
+    <small><span asp-validation-for="LastName" class="text-danger"></span></small>
+    <div class="form-floating mb-3">
+        <input asp-for="Email" class="form-control">
+        <label asp-for="Email" class="col-form-label"></label>
+    </div>
+    <small><span asp-validation-for="Email" class="text-danger"></span></small>
+    <div class="form-floating mb-3">
+        <input asp-for="Password" class="form-control">
+        <label asp-for="Password" class="col-form-label"></label>
+    </div>
+    <small><span asp-validation-for="Password" class="text-danger"></span></small>
+    <div class="form-floating mb-3"> 
+        <input asp-for="Confirm" class="form-control">
+        <label asp-for="Confirm" class="col-form-label"></label>
+    </div>
+    <small><span asp-validation-for="Confirm" class="text-danger"></span></small>
     <div class="mb-3 form-check">
         <input type="checkbox" class="form-check-input" id="exampleCheck1">
         <label class="form-check-label" for="exampleCheck1">Check me out</label>
