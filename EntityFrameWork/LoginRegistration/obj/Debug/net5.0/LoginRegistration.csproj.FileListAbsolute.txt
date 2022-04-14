@@ -53,3 +53,6 @@ D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\EntityFrameWork\
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\EntityFrameWork\LoginRegistration\obj\Debug\net5.0\Razor\Views\Auth\registerPartial.cshtml.g.cs
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\EntityFrameWork\LoginRegistration\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\EntityFrameWork\LoginRegistration\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\EntityFrameWork\LoginRegistration\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\EntityFrameWork\LoginRegistration\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+D:\PROJECS\Coding Dojo\C# Stack\c#_stack_git\CSHARP-Coding-dojo\EntityFrameWork\LoginRegistration\obj\Debug\net5.0\Razor\Views\Home\Welcome.cshtml.g.cs

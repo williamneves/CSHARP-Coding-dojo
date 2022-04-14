@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using LoginRegistration.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
 
 namespace LoginRegistration.Controllers
 {
@@ -23,12 +24,27 @@ namespace LoginRegistration.Controllers
 
         public IActionResult Index()
         {
+            var userInDb = dbContext.Users.FirstOrDefault(u => u.UserId == HttpContext.Session.GetInt32("UserId"));
+
+            ViewBag.UserLoggedIn = userInDb;
             return View();
         }
 
-        [HttpGet("login")]
-        public IActionResult Login()
+        [HttpGet("welcome")]
+        public IActionResult Welcome()
         {
+            if (HttpContext.Session.GetInt32("UserId") == null)
+            {
+                TempData["AuthError"] = "You must be logged in to view this page";
+                return RedirectToAction("Index");
+            }
+            
+            var userInDb = dbContext.Users.FirstOrDefault(u => u.UserId == HttpContext.Session.GetInt32("UserId"));
+
+            Console.WriteLine("User Logged In: ", HttpContext.Session.GetInt32("UserId"));
+
+            ViewBag.UserLoggedIn = userInDb;
+
             return View();
         }
 
