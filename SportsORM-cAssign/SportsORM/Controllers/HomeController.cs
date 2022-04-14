@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SportsORM.Models;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace SportsORM.Controllers
@@ -326,6 +327,75 @@ namespace SportsORM.Controllers
         [HttpGet("level_2")]
         public IActionResult Level2()
         {
+            // all teams in the Atlantic Soccer Conference
+            List<Team> AtlanticTeams = _context.Teams
+                .Where(l => l.CurrLeague.Name.Contains("Atlantic"))
+                .ToList();
+            ViewBag.AtlanticTeams = AtlanticTeams;
+
+            // .all (current) players on the Boston Penguins (Hint: Boston is the Location, Penguins is the TeamName)
+            List<Player> BostonPenguins = _context.Players
+                .Where(l => l.CurrentTeam.Location.Contains("Boston") && l.CurrentTeam.TeamName.Contains("Penguins"))
+                .ToList();
+
+            ViewBag.BostonPenguins = BostonPenguins;
+
+            // ...all (current) players in the International Collegiate Baseball Conference
+
+            List<Player> ICCBPlayers = _context.Players
+                .Where(l => l.CurrentTeam.CurrLeague.Name.Contains("International Collegiate Baseball"))
+                .ToList();
+
+            ViewBag.ICCBPlayers = ICCBPlayers;
+
+            // ...all (current) players in the American Conference of Amateur Football with last name "Lopez"
+
+            List<Player> ACAMFLopezPlayers = _context.Players
+                .Where(l => l.CurrentTeam.CurrLeague.Name.Contains("American Conference of Amateur Football") && l.LastName.Contains("Lopez"))
+                .ToList();
+
+            Console.WriteLine($"Text: {ACAMFLopezPlayers.Count}");
+            
+            ViewBag.ACAMFLopezPlayers = ACAMFLopezPlayers;
+
+            // ...all football players<
+
+            List<Player> FootballPlayers = _context.Players
+                .Where(l => l.CurrentTeam.CurrLeague.Name.Contains("Football"))
+                .ToList();
+
+            Console.WriteLine($"Text: {FootballPlayers.Count}");
+            ViewBag.FootballPlayers = FootballPlayers;
+
+            // ...all teams with a (current) player named "Sophia"
+
+            List<Team> TeamSophia = _context.Teams
+                .Where(l => l.CurrentPlayers.Any(p => p.FirstName.Contains("Sophia")))
+                .ToList();
+
+            Console.WriteLine($"Text: {TeamSophia.Count}");
+
+            ViewBag.TeamSophia = TeamSophia;
+
+            // ...all leagues with a (current) player named "Sophia"
+            List<League> LeagueSophia = _context.Leagues
+                .Include(l => l.Teams)
+                .ThenInclude(t => t.CurrentPlayers)
+                .Where(l => l.Teams.Any(t => t.CurrentPlayers.Any(p => p.FirstName == "Sophia")))
+                .ToList();
+
+            ViewBag.LeagueSophia = LeagueSophia;
+
+            //..everyone with the last name "Flores" who DOESN'T (currently) play for the Washington Roughriders
+            List<Player> noFLores = _context.Players
+                .Where(l => l.LastName.Contains("Flores") && !l.CurrentTeam.TeamName.Contains("Roughriders"))
+                .ToList();
+
+                Console.WriteLine($"Text: {noFLores.Count}");
+                
+
+            ViewBag.noFLores = noFLores;
+
             return View();
         }
 
