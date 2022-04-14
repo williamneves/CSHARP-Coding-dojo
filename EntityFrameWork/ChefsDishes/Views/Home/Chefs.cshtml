@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Chefs";
+}
+
+
+<div class="col-8 m-auto mt-5">
+    <h3 class="text-center">Check out our roster of Chefs</h3>
+    <hr class="w-50 m-auto mb-2" />
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Age</th>
+                <th scope="col">N. of Dishes</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+        @{
+            foreach (var chef in ViewBag.AllChefs)
+            {
+                <tr>
+                    <td>@chef.FirstName @chef.LastName</td>
+                    <td>@chef.get_age() years</td>
+                    <td>@chef.CreatedDishes.Count</td>
+                </tr>
+            }
+        }
+        </tbody>
+    </table>
+</div>

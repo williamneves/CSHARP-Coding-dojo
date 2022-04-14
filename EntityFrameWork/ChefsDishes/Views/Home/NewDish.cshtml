@@ -1,0 +1,53 @@
+@{
+    ViewData["Title"] = "Dishes";
+}
+@model Dish
+
+<div class="col-4 m-auto mt-5">
+<h4 class="text-center">Create New Dish</h4>
+<hr>
+<form asp-action="CreateDish" asp-view="Home" method="post">
+<small class="text-danger"><span asp-validation-for="Name"></span></small>
+<div class="form-floating mb-3">
+<input asp-for="Name" class="form-control">
+<label asp-for="Name"></label>
+</div>
+<small class="text-danger"><span asp-validation-for="Calories"></span></small>
+<div class="form-floating mb-3">
+<input asp-for="Calories" class="form-control">
+<label asp-for="Calories"></label>
+</div>
+<small class="text-danger"><span asp-validation-for="Tastiness"></span></small>
+<div class="form-floating mb-3">
+<select asp-for="Tastiness" class="form-control">
+<option value="" selected> </option>
+@{
+    for (int i = 1; i <= 5; i++)
+    {
+        <option value="@(i)">@(i)</option>
+    }
+}
+</select>
+<label asp-for="Tastiness">Select a Tastiness</label>
+</div>
+<small class="text-danger"><span asp-validation-for="ChefId"></span></small>
+<div class="form-floating mb-3">
+<select asp-for="ChefId" class="form-control">
+<option value="" selected> </option>
+@{
+    foreach(var chef in ViewBag.AllChefs)
+    {
+        <option value="@(chef.ChefId)">@(chef.FirstName) @(chef.LastName)</option>
+    }
+}
+</select>
+<label asp-for="ChefId">Select a Chef</label>
+</div>
+<small class="text-danger"><span asp-validation-for="Description"></span></small>
+<div class="form-floating mb-3">
+<textarea asp-for="Description" class="form-control" style="height: 100px;"></textarea>
+<label asp-for="Description"></label>
+</div>
+<button type="submit" class="btn bg-orange-700 w-50 text-white my-3 m-auto">Add New Dish</button>
+</form>
+</div>

@@ -15664,13 +15664,28 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\LoginRegistration\\Views\\Home\\login.cshtml",
-      "TargetPath": "Views\\Home\\login.cshtml",
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\LoginRegistration\\Views\\Auth\\Login.cshtml",
+      "TargetPath": "Views\\Auth\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\LoginRegistration\\Views\\Home\\Login.cshtml",
+      "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\LoginRegistration\\Views\\Auth\\loginPartial.cshtml",
       "TargetPath": "Views\\Auth\\loginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\LoginRegistration\\Views\\Home\\Welcome.cshtml",
+      "TargetPath": "Views\\Home\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\LoginRegistration\\Views\\Auth\\Register.cshtml",
+      "TargetPath": "Views\\Auth\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
