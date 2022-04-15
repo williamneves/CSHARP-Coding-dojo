@@ -1,0 +1,48 @@
+@{
+    ViewData["Title"] = "Products and Categories";
+}
+@model ProductCategory
+<div class="row m-auto my-5 justify-content-evenly">
+    <h2 class="text-center mb-3">@ViewBag.SelectedCategory.Name</h2>
+  <div class="col-4">
+  <h4>Products</h4>
+  <hr>
+    <table class="table table-hover table-striped">
+ 
+  @{
+    foreach (var prod in ViewBag.SelectedProducts)
+    {
+      <tr>
+        <td>
+          <a href="/products/@prod.ProductId">@prod.Name</a>
+        </td>
+      </tr>
+    }
+  }
+  </table>
+  </div>
+
+  <div class="col-4">
+  <h3>Add Category:</h3>
+  <hr>
+  <form asp-action="NewCatProd" method="post">
+  <input type="hidden" asp-for="CategoryId" value="@ViewBag.SelectedCategory.CategoryId">
+    <div class="input-group mb-3">
+  <label asp-for="ProductId" class="input-group-text">Categories:</label>
+  <select asp-for="ProductId" class="form-select">
+  <option value="" selected>Choose...</option>
+    @{
+        foreach (var prod in ViewBag.NotInProducts)
+        {
+        <option value="@prod.ProductId">@prod.Name</option>
+        }
+    }
+  </select>
+  </div>
+  <button type="submit" class="btn btn-primary">Add Product</button>
+  </form>
+
+  </div>
+
+</div>
+
