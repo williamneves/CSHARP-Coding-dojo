@@ -1,8 +1,38 @@
-﻿@model TModel
+﻿@model Wedding
 
 @{
     ViewBag.Title = "title";
     Layout = "_Layout";
 }
 
-<h2>title</h2>
+<div class="row mt-3 flex-column">
+<h2 class="text-center col-4 m-auto">@Model.WedderOne & @Model.WedderTwo Wedding</h2>
+    <hr class="dropdown-divider col-5 m-auto my-3"/>
+    <table>
+    <thead>
+        <tr>
+            <th>Guests</th>
+        </tr>
+        <tr>
+            <th>@Model.Date.ToShortDateString()</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var guest in Model.Guests)
+    {
+        <tr>
+            <td>@guest.GuestUser.FirstName @guest.GuestUser.LastName</td>
+        </tr>
+    }
+        
+        <tr>
+            <td>@Model.Address</td>
+        </tr>
+    </tbody>
+    </table>
+
+    @Maps.GetGoogleHtml(@Model.Address,
+            width: "400",
+            height: "400")
+
+</div>

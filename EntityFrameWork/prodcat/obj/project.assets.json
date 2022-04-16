@@ -908,11 +908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\prodcat\\prodcat.csproj",
+      "projectUniqueName": "D:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\prodcat\\prodcat.csproj",
       "projectName": "prodcat",
-      "projectPath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\prodcat\\prodcat.csproj",
+      "projectPath": "D:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\prodcat\\prodcat.csproj",
       "packagesPath": "C:\\Users\\gwnn\\.nuget\\packages\\",
-      "outputPath": "d:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\prodcat\\obj\\",
+      "outputPath": "D:\\PROJECS\\Coding Dojo\\C# Stack\\c#_stack_git\\CSHARP-Coding-dojo\\EntityFrameWork\\prodcat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gwnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -974,7 +974,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

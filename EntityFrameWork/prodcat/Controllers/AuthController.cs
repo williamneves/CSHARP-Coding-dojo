@@ -61,7 +61,7 @@ namespace prodcat.Controllers
 
                 ViewBag.UserLoggedIn = userInDb;
 
-                return RedirectToAction("Welcome", "Home");
+                return RedirectToAction("Index", "Home");
             }
             // Not Valid ModelState
             TempData["LoginError"] = "invalidform";
