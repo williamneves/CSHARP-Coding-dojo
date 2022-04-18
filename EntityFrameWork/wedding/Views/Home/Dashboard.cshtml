@@ -1,10 +1,13 @@
-﻿@{
+﻿@model WeddingsList
+
+@{
     ViewBag.Title = "title";
     Layout = "_Layout";
 }
 <div class="row mt-3">
 <h2 class="text-center my-3">Welcome to the Wedding Planner</h2>
 <hr/>
+@* 
 <table class="table table-striped table-light">
     <thead>
     <tr>
@@ -16,7 +19,7 @@
     </thead>
     <tbody>
     @{
-        foreach (var wedding in ViewBag.allWeddings)
+        foreach (var wedding in ViewBag.ListOfWeddings)
         {
             bool IsAttending = false;
             foreach(var guest in wedding.Guests)
@@ -49,6 +52,45 @@
                     }
                     
                     
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table> *@
+
+@* New Table *@
+
+<table class="table table-striped table-light">
+    <thead>
+    <tr>
+        <th scope="col">Wedding</th>
+        <th scope="col">Date</th>
+        <th scope="col">Guests</th>
+        <th scope="col">Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @{
+        foreach (var wedding in @Model.ListOfWeddings)
+        {
+            <tr>
+                <td><a href="/Wedding/@wedding.WeddingId">@wedding.WedderOne & @wedding.WedderTwo</a></td>
+                <td>@wedding.Date.ToShortDateString()</td>
+                <td>@wedding.Guests.Count</td>
+                <td>
+                    @if(wedding.UserId == ViewBag.UserLoggedIn.UserId)
+                    {
+                        <a href="/Delete/@wedding.WeddingId">Delete</a>
+                    }
+                    else if(wedding.Guests.Any(g => g.UserId == ViewBag.UserLoggedIn.UserId))
+                    {
+                        <a href="/UnJoin/@wedding.WeddingId">Un-Join</a>
+                    }
+                    else
+                    {
+                    <a href="/Join/@wedding.WeddingId">Join</a>
+                    }
                 </td>
             </tr>
         }

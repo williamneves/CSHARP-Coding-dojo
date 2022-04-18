@@ -9,6 +9,6 @@ namespace Wedding.Models
         public int UserId { get; set; }
         public int WeddingId { get; set; }
         public User GuestUser { get; set; }
-        public Wedding Wedding { get; set; }
+        public WeddingModel Wedding { get; set; }
     }
 }

@@ -64,13 +64,24 @@ namespace Wedding.Controllers
             ViewBag.UserLoggedIn = userInDb;
             
 
-            ViewBag.allWeddings = dbContext.Weddings
+            List<WeddingModel> viewBagModel = dbContext.Weddings
                 .Include(w => w.Guests)
                 .ThenInclude(g => g.GuestUser)
                 .OrderBy(w => w.Date)
                 .ToList();
+
+            List<WeddingModel> allWeddingModel = dbContext.Weddings
+                .Include(w => w.Guests)
+                .ThenInclude(g => g.GuestUser)
+                .OrderBy(w => w.Date)
+                .ToList();
+
+            ViewBag.ListOfWeddings = viewBagModel;
+
+            WeddingsList listOfWeddings = new WeddingsList();
+            listOfWeddings.ListOfWeddings = allWeddingModel;
             
-            return View();
+            return View(listOfWeddings);
         }
         
         [HttpGet("NewWedding")]
@@ -92,7 +103,7 @@ namespace Wedding.Controllers
         }
         
         [HttpPost("CreateWedding")]
-        public IActionResult CreateWedding(Models.Wedding newWedding)
+        public IActionResult CreateWedding(Models.WeddingModel newWedding)
         {
             if (HttpContext.Session.GetInt32("UserId") == null)
             {

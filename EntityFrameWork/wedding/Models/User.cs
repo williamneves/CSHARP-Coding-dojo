@@ -47,7 +47,7 @@ namespace Wedding.Models
         // Relationship
 
         // One-to-Many with Weddings
-        public List<Wedding> WeddingsPlans { get; set; }
+        public List<WeddingModel> WeddingsPlans { get; set; }
 
         // Many-to-Many with Guests
         public List<Guest> Atteding { get; set; }

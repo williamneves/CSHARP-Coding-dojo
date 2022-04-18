@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 namespace Wedding.Models
 {
     
-    public class Wedding
+    public class WeddingModel
     {
         [Key]
         public int WeddingId { get; set; }
