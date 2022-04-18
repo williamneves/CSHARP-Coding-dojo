@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+<div class="col-8 my-5 m-auto">
+    <div class="card">
+        <div class="card-header bg-blue-200">
+            @ViewBag.Message.User.FirstName @ViewBag.Message.User.LastName - @ViewBag.Message.CreatedAt
+        </div>
+
+        <div class="card-body bg-gray-100">
+            <p class="ms-3">@ViewBag.Message.MessageText</p>
+        </div>
+        <div class="card-footer bg-blue-100">
+            <p class="text-muted text-end mb-0">@ViewBag.Message.Comments.Count Comments</p>
+        </div>
+    </div>
+
+    @{
+        if (@ViewBag.UserLoggedIn != null)
+        {
+            <div class="ms-3">
+                <partial name="_PostComment"/>
+            </div>
+        }
+    }
+    <h5 class="my-3 ms-3">Comments:</h5>
+    @foreach(var comment in ViewBag.Message.Comments)
+    {
+        
+        <div class="card my-3 ms-3">
+            <div class="card-header bg-yellow-200">
+                @comment.User.FirstName @comment.User.LastName - @comment.CreatedAt
+            </div>
+            <div class="card-body bg-yellow-100">
+                <p class="ms-3">@comment.CommentText</p>
+            </div>
+        </div>
+    }
+</div>
