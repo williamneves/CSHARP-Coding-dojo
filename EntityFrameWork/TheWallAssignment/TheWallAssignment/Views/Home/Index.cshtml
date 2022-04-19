@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "CodingDojo Wall";
+}
+@{
+    <div class="m-auto my-2 w-50">
+        <p class='fw-bold text-info text-center'>
+            @TempData["Logout"]
+        </p>
+    </div>
+    
+}
+
+
+<div class="row">
+    <div class="col-8 m-auto mt-4">
+        @{
+            if (@ViewBag.UserLoggedIn != null)
+            {
+                <partial name="_PostMessage"/>
+            }
+        }
+        <h3>Messages:</h3>
+        @foreach (Message post in @ViewBag.AllMessages)
+        {
+            
+            <div class="card my-3">
+                <div class="card-header bg-blue-200">
+                    @post.User.FirstName @post.User.LastName - @post.CreatedAt
+                </div>
+                
+                <div class="card-body bg-gray-100">
+                    <p class="ms-3">@post.MessageText</p>
+                </div>
+                <div class="card-footer bg-blue-100">
+                    <p class="text-muted text-end mb-0"><a asp-action="IndividualMessage" asp-route-messageId="@post.MessageId">@post.Comments.Count Comments</a></p>
+                </div>
+            </div>
+        }
+    </div>
+</div>
